@@ -85,9 +85,9 @@ In this resource you will make a BBC micro:bit controlled selfie booth with a Ra
 1. Underneath type the instruction to wait for the micro:bit trigger:
 
 	```python
-	button.wait_for_press()
-	camera.capture('selfie.jpg`)
-	camera.stop_preview()
+	    button.wait_for_press()
+	    camera.capture('selfie.jpg`)
+	    camera.stop_preview()
 	```
 	
 	The program will wait for the trigger from the micro:bit, then take a picture and store it in a file called `selfie.jpg` before stopping the camera preview. 
