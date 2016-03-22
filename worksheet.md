@@ -4,7 +4,7 @@ In this resource you will make a BBC micro:bit controlled selfie booth with a Ra
 
 ## Connect the camera & micro:bit
 
-1. Ensure that you have read [Getting Started with BBC Microbit](raspberrypi.org/learning/getting-started-with-microbits) resource and have followed step 1 to install the software [Mu](software.md) which we will be using to program this project. 
+1. Ensure that you have read [Getting Started with BBC Microbit](http://raspberrypi.org/learning/getting-started-with-microbits) resource and have followed step 1 to install the software [Mu](software.md) which we will be using to program this project. 
 1. Then connect your BBC micro:bit to your Raspberry Pi following step 2. 
 1. You will also need to have connected your Raspberry Pi camera module to your Raspberry Pi. [Getting started with Raspberry Pi Camera]() contains instructions on how to do this in step 1 and 2.
 
@@ -101,5 +101,5 @@ In this resource you will make a BBC micro:bit controlled selfie booth with a Ra
 ## Whats next?
 1. Can you create a count down on the micro:bit LED matrix before a photo is taken by the camera?
 1. Now that you have the camera taking one picture triggered by the micro:bit, how could you take more pictures and save them as separate files?
-1. Take a look at the [Getting Started with BBC Microbit](raspberrypi.org/learning/getting-started-with-microbits) resource for more ideas of what you could do with your BBC micro:bit. 
+1. Take a look at the [Getting Started with BBC Microbit](http://raspberrypi.org/learning/getting-started-with-microbits) resource for more ideas of what you could do with your BBC micro:bit. 
     	    	
