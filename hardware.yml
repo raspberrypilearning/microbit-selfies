@@ -2,7 +2,7 @@
   img: camera
 - name: BBC micro:bit
   img: microbit
-- name: USB Type A to Type Mini B
+- name: USB A-to-micro-B
   img: usb-microusb
 - name: 3 x crocodile clip cables
   img: crocodile-clips  
