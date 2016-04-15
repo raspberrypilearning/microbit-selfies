@@ -1,4 +1,4 @@
-# Micro:bit selfies teacher's guide
+# The micro:bit selfies teacher's guide
 
 ## Objectives
 
