@@ -1,10 +1,10 @@
 # Micro:bit Selfies Teacher's Guide
 
 ## Objectives
-- How to set up a Raspberry Pi camera
-- Controlling the camera module with Python code
-- How to use input and output pins on the micro:bit and Raspberry Pi
-- Controlling GPIO pins with Python code
+- Understand how to set up a Raspberry Pi camera
+- Implement code to control the Raspberry Pi camera
+- Identify GPIO pins, on both the micro:bit and the Raspberry Pi, and differentiate between inputs and outputs
+- Implement code to control the GPIO pins on the micro:bit and Raspberry Pi
 
 ## Software installation
 For this lesson, your students will need access to the **mu** IDE. To install **mu**, open up ther Terminal and type:
