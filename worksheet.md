@@ -4,8 +4,8 @@ In this resource, you will make a micro:bit-controlled selfie booth with a Raspb
 
 ## Connect the camera and micro:bit
 
-1. Ensure that you have read the [Getting started with micro:bit](http://raspberrypi.org/learning/getting-started-with-microbits) resource and have followed step 1 to install the software [mu](software.md), which we will be using to program this project. 
-1. Then connect your micro:bit to your Raspberry Pi, following step 2. 
+1. Ensure that you have read the [Getting started with micro:bit](http://raspberrypi.org/learning/getting-started-with-microbits) resource and install mu if you haven't already.
+1. Connect your micro:bit to your Raspberry Pi, following step 2 of the [Getting started with micro:bit](http://raspberrypi.org/learning/getting-started-with-microbits) resource. 
 1. You will also need to have connected your Raspberry Pi camera module to your Raspberry Pi. [Getting started with Raspberry Pi Camera](https://www.raspberrypi.org/learning/getting-started-with-picamera) contains instructions on how to do this in step 1 and 2.
 
 
