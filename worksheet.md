@@ -78,7 +78,7 @@ In this resource, you will make a micro:bit-controlled selfie booth with a Raspb
 	```python
 	with PiCamera() as camera:
 	    camera.start_preview()
-	    sleep(1)
+	    sleep(5)
 	```
 
     Whilst the preview shows, you can get into position for your selfie. 
