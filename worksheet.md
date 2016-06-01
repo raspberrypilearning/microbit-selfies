@@ -46,7 +46,8 @@ In this resource, you will make a micro:bit-controlled selfie booth with a Raspb
 	        display.scroll('say cheese!")
 	        sleep(500)
 	        pin1.write_digital(1)
-            sleep(5000)
+                sleep(5000)
+                pin1.write_digital(0)
 	```
 	Each time around this loop, the computer asks if the cable attached to pin 0 is being touched. If it is, then the message 'say cheese!' should appear and tell pin 1 to become high or turn on. This is the pin that is connected to the Raspberry Pi. We will use that pin in the next step to trigger the camera to take a picture and store it. 
 
