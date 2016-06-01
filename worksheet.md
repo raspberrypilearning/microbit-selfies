@@ -43,7 +43,7 @@ In this resource, you will make a micro:bit-controlled selfie booth with a Raspb
 	```python
 	while True:
 	    if pin0.is_touched():
-	        display.scroll('say cheese!")
+	        display.scroll("say cheese!")
 	        sleep(500)
 	        pin1.write_digital(1)
                 sleep(5000)
