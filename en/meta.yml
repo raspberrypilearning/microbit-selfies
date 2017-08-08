@@ -1,4 +1,3 @@
----
 title: micro:bit selfies
 hero_image: images/banner.png
 description: Taking selfies with the micro:bit and a Raspberry Pi
@@ -15,7 +14,6 @@ site_areas: ''
 steps:
 - title: Introduction
 - title: What you will need
-- title: micro:bit selfies
 - title: Connect the camera and micro:bit
 - title: Build the micro:bit trigger
 - title: Program the micro:bit trigger
