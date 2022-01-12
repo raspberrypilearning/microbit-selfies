@@ -1,3 +1,4 @@
+---
 title: micro:bit selfies
 hero_image: images/banner.png
 description: Taking selfies with the micro:bit and a Raspberry Pi
@@ -15,11 +16,13 @@ hardware: raspberry-pi, electronic-components, microbit
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
+  completion: engaged
 - title: Connect the camera and micro:bit
 - title: Build the micro:bit trigger
 - title: Program the micro:bit trigger
+  completion: internal
 - title: Program the Raspberry Pi camera
 - title: What next?
