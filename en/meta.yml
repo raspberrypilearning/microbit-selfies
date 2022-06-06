@@ -19,10 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Connect the camera and micro:bit
 - title: Build the micro:bit trigger
+  completion:
+  - engaged
 - title: Program the micro:bit trigger
-  completion: internal
 - title: Program the Raspberry Pi camera
+  completion:
+  - internal
 - title: What next?
